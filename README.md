@@ -9,8 +9,10 @@ Encaminho:
   5-stylelandingpage1.css <documento de estilo da landing page>
   6-arquivo db.php <responsável por realizar as queries para conexão da página com servidor e banco de dados <localhost>
   
-  Segue link para, caso não seja possível executar meus documentos com êxito, observar e constatar o funcionamento do que foi solicitado. 
-  https://youtu.be/3-wd1D2ALas
+Obs: inicia-se no documento emailmkt.php, o qual possui link para o landingpage1.php, página na qual está localizado o formulário com interface com MySQL. 
   
-  Grato pela oportunidade!
-  Atenciosamente, Wagner Lima. 
+Segue link para, caso não seja possível executar meus documentos com êxito, observar e constatar o funcionamento do que foi solicitado. 
+https://youtu.be/3-wd1D2ALas
+  
+Grato pela oportunidade!
+Atenciosamente, Wagner Lima.  
