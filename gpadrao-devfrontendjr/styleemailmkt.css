@@ -1,0 +1,95 @@
+body{
+    margin: 0px;
+    text-decoration: none;
+    border: 0px; 
+    text-align: center; 
+    max-width: 600px;  
+    margin-left: auto;
+    margin-right: auto;
+    font-family: verdana;
+}
+p{
+    color:white;
+}
+.back-ground{
+    background: #21304f;
+}
+.lemon{
+    color:#bbf41c;
+    padding-bottom: 25px;
+}
+.lemon p{
+    color:#bbf41c;
+}
+.header-conarec img{
+    height:220px;
+    width: 170px;
+    text-align: center;
+    margin-top: 40px;
+    background: white;
+}
+.conarec-png{
+    max-width: auto;
+    text-align: center;
+}
+.title h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 38px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.describe-event p{
+    max-width: 530px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 15px;
+    letter-spacing: 0,7px;
+    word-spacing: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    color:#21304f;
+    background: #bbf41c;
+    height: 40px;
+    width: 180px;
+    margin-bottom: 35px;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.infos{
+    padding-bottom: 20px;
+    padding-top: 45px;
+    letter-spacing: 0,7px;
+}
+.event-date{
+    padding-bottom: 45px;
+}
+.web-hashtag p{
+    color: #bbf41c;
+}
+.web-hashtag {
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.social-icons{
+    max-width: 40%;
+    word-spacing: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.icon {
+    font-size: 60px;
+}
+.footer{
+    margin-top: 25px;
+    padding-bottom: 20px;
+}
+.footer p{
+    font-size:x-small;
+    font-family: sans-serif
+}
+.elipse{
+    max-width: 600px;
+}
